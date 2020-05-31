@@ -1,0 +1,64 @@
+@font-face {
+    src: url(fonts/Piedra-Regular.ttf);
+    font-family: peidra;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    font-family: peidra;
+    font-size: 30px; 
+    color: blue;
+}
+
+#color1 {
+    color: red;
+}
+
+#color2 {
+    color: blue;
+}
+
+#color3 {
+    color: green;
+}
+
+#big {
+    font-size: x-large;
+}
+
+#small {
+    font-size: x-small;
+}
+
+#center {
+    text-align: center;
+}
+
+#bold1 {
+    font-weight: bolder;
+}
+
+#font1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#multi {
+    font-weight: bolder;
+    color: orange;
+    font-size: xx-large;
+}
+
+.styledFont {
+    color: darkred;
+    font-weight: 1000;
+}
+
+#styledImage {
+    border-width: 10px;
+    border-color: red;
+    border-style: groove;
+}
